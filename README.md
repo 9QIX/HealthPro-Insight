@@ -13,18 +13,40 @@ Welcome to the HealthPro Insight Doctor Appointment System, an open-source web p
 ![Responsive Design](https://img.shields.io/badge/Feature-Responsive%20Design-blue)
 ![Security Updates](https://img.shields.io/badge/Updates-Security-red)
 
-
 ## Project Overview
 
 HealthPro Insight is a web project designed to facilitate doctor appointment bookings for medical establishments such as clinics and hospitals. It offers patients the convenience of requesting appointments online while helping doctors efficiently manage their schedules. The system has three primary user roles: administrators, doctors, and patients.
 
 - **Administrators** can add, edit, and delete doctors, schedule sessions, and view patient details and bookings.
-
 - **Doctors** can view their appointments, scheduled sessions, and patient details, and manage their accounts.
-
 - **Patients (Clients)** can make appointments online, create accounts, view their booking history, and manage their account settings.
 
-### Dashboards
+## Features
+
+### Admin
+
+- **Add and Manage Doctors**: Administrators can add, edit, and delete doctor profiles.
+- **Schedule Management**: Administrators have the capability to schedule new doctor sessions and remove sessions as needed.
+- **Patient Details**: View and manage patient information.
+- **Booking Overview**: Access and monitor patient bookings.
+
+### Doctors
+
+- **Appointment View**: Doctors can view their upcoming appointments.
+- **Session Schedule**: Access and manage their scheduled sessions.
+- **Patient Information**: View details of their patients.
+- **Account Deletion**: Capability to delete their account.
+- **Account Settings**: Edit and manage account settings.
+
+### Patients (Clients)
+
+- **Online Appointment Booking**: Patients can easily book appointments online.
+- **Self-Registration**: Create and manage their own accounts.
+- **Booking History**: Access their booking history to keep track of previous appointments.
+- **Account Deletion**: Option to delete their account.
+- **Account Settings**: Edit and customize account settings as needed.
+
+## Dashboards
 
 - **Admin Dashboard**:
   - Email: `admin@healthproinsight.com`
