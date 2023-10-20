@@ -48,20 +48,15 @@ HealthPro Insight is a web project designed to facilitate doctor appointment boo
 
 ## Dashboards
 
-- **Admin Dashboard**:
-  - Email: `admin@healthproinsight.com`
-  - Password: `123`
-  ![Admin Dashboard](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(3).png)
+| Admin Dashboard | Doctor Dashboard | Patient Dashboard |
+| -------| -------| -------|
+| Email: `admin@edoc.com` | Email: `doctor@edoc.com` |   Email: `patient@edoc.com` | 
+| Password: `123` |  Password: `123` |  Password: `123` |
+| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(3).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(9).png) |    ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(6).png)  |
 
-- **Doctor Dashboard**:
-  - Email: `doctor@healthproinsight.com`
-  - Password: `123`
-  ![Doctor Dashboard](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(9).png)
-
-- **Patient Dashboard**:
-  - Email: `patient@healthproinsight.com`
-  - Password: `123`
-  ![Patient Dashboard](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(6).png)
+ 
+  
+-----------------------------------------------
 
 ## Getting Started
 
